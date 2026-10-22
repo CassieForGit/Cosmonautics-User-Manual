@@ -1,45 +1,48 @@
-# **State:** usuable
+# **State:** fucked up dude
 
-Progress has been going rapidly! In just one commit the basic GUI Controlls have been explained and the nodes too! However there's science to do, and Science Is Fun. We do what we must, because, we can. For the good of all of us. but The Future Starts With You, however i'm an Accent Beyond and infact the documentation is Almost at Fifty Percent
-
-if you want to contribute, you can either dm me or fork from this. 
-
-## CHECKLIST: 
-
-GUI:
-
-    Custom Design Screen
+Yeah so i didn't think about it carefully and made a wiki for a version that is never going to be good... Yikes!
+However there's still hope, i don't have to do it bottoms up since there are still parts of the game that weren't touched in the update and so they can stay as is.
+Other parts, Especially the Sputnik, were HEAVILY changed and cannot be used as is. However, it can still be translated into the latest non-dev build.
 
 
-Sputnik:
+#Checklist:
 
-    Start ComputerCraft (Tweaked) Chapter
+    translate every back into 26.08.291.
 
-Start Physics Chapter:
-
-    4 Forces of Newton
+    add Computer Craft
+        Peripheral usage
+        Rocket Controlling
+        Autonomous flight
+            Hops
+            Landings
+            Hovers
+            Controlled Horizontal movement
+            Vectored Horizontal Movement (as in Rocket moving to coords or directions)
+            Sub-orbital Flight
+            And so on
+        at end:
+            Quirks with displays (Eg. Telemetry via Display)
+            Quirks with other peripherals.
     
-    Aereodynamics
-
-    Directional and Rotational Vectors
-
-    Basic Hot Baloon
-
-    Basic Plane
+    Community
+        Discord Servers
     
-    BIG LAUNDRY
+    Rocket Science (Similar to "Autonomous Flight")
+        How orbits work and how to modify
+        Hohmann transfer
+        Re entry
+        Docking
+        Gravity assist
+        And so on
+    
+    Celestial bodies
+        for Celestial Body do
+            Characteristics
+                Gravity
+                Diameter
+                Surface
+                Usage
+    
+    Common Mistakes and Unknown Subjects of the community
 
-Start Blocks :
-
-    Thrusters
-
-    Gyrodyne
-
-    Cool displays
-
-    Cables
-
-    and so on
-
-
-[//]: # (Mandatory Phineas And Ferb joke, please keep it in)
+    Big Laundry
