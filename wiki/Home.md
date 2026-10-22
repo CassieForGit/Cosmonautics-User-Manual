@@ -14,3 +14,6 @@ The pages below detail how to customize the universe components currently suppor
 
 ## Peripherals and Programming
 - [Peripherals](Peripherals.md) — Sputnik block telemetry, ComputerCraft integration, and local Lua script API.
+
+## The User Guide
+- [User Manual]()
