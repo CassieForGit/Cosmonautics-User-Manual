@@ -7,7 +7,7 @@ Other parts, Especially the Sputnik, were HEAVILY changed and cannot be used as 
 
 #Checklist:
 
-    translate every back into 26.08.291.
+    translate every back into latest on Github.
 
     add Computer Craft
         Peripheral usage
