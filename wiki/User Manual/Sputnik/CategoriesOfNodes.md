@@ -2,10 +2,10 @@
 
 There are 14 Built-in categories.
 
-The first one, the Actuators category, contains 4 nodes of which are used to control their respective block. A Thruster, a Vectored Thruster, a Booster (Solid Thruster) and RCS.
+The first one, the Actuators category, contains 4 nodes of which are used to control their respective block. A Standard Thruster, a Vectored Thruster, a Booster (Solid Thruster) and RCS.
 They all are independent between each other.
 
-There is no use of the Audio category, use [CC:T speakers](https://tweaked.cc/peripheral/speaker.html)
+There is no practical use of the Audio category, use [CC:T speakers](https://tweaked.cc/peripheral/speaker.html) if audio is need.
 
 In the Communication category you can use both the Create Redstone Link Network to Send and receive redstone signals, and also the Cosmonautics Sputlink Radio Network to send and receive values.
 

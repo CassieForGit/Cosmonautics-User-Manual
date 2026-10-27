@@ -1,3 +1,3 @@
 ## Lua Scripting with Sputnik
 
-[Unavalible]
+[Unavailable]
