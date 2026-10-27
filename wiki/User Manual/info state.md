@@ -12,7 +12,7 @@ Other parts, Especially the Sputnik, were HEAVILY changed and cannot be used as 
 
 * Add Links for every subject so that they're accessible via [Home](/wiki/Home.md)
 
-
+* add [MarkdownManual](https://github.com/MightyPirates/MarkdownManual) Compatibility, just like in [TIS-3D](https://github.com/MightyPirates/TIS-3D/tree/f7c0de78f2ae8eadd8ac50bb94b81b6adce0aa72/common/src/main/resources/assets/tis3d/doc/en_us)
 
 * Computer Craft:
 
