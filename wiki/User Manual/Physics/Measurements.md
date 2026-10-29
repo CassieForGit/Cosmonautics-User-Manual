@@ -12,12 +12,12 @@ A length between two points on two different planes is a 3 dimensional line. It'
 ### Area
 
 An Area is a space defined by a perimeter and is measured in meters square ( M^2 ) ( M\*M = M^2 ).
-It's two lengths multiplied by each other. (L1\*L2 = A)
+It's two lengths multiplied by each other. ( L1\*L2 = A )
 
 ### Volume
 
-A volume is a 3 dimensional measurement defined by surface areas and is measured in meters cube ( M^3 ) ( M\*M\*M = M^2).
-It's 3 lengths multiplied by each other. (L1\*L2\*L3 = V)
+A volume is a 3 dimensional measurement defined by surface areas and is measured in meters cube ( M^3 ) ( M\*M\*M = M^2 ).
+It's 3 lengths multiplied by each other. ( L1\*L2\*L3 = V )
 It can also be measured in Liters.
 
 ### Force
